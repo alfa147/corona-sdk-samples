@@ -1,0 +1,7 @@
+settings =
+{
+   androidPermissions =
+   {
+       "android.permission.READ_PHONE_STATE"
+   },
+}

@@ -1,0 +1,15 @@
+settings = {
+	iphone =
+	{
+		plist =
+		{
+			UIApplicationExitsOnSuspend = true,
+			UIStatusBarHidden = true,
+		},
+	},
+	orientation =
+	{
+		default = "portrait", 
+		supported = { "landscapeLeft", "landscapeRight", "portrait", "portraitUpsideDown" },
+	},
+}

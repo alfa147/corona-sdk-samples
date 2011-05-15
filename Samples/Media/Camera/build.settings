@@ -1,0 +1,7 @@
+settings =
+{
+   androidPermissions =
+   {
+       "android.permission.CAMERA"
+   },
+}
